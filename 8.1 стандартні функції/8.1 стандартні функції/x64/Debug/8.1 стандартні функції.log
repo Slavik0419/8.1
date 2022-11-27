@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\8.1 стандартні функції\8.1 стандартні функції\Source.cpp(13,21): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\source\repos\8.1 стандартні функції\8.1 стандартні функції\Source.cpp(31,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  8.1 стандартні функції.vcxproj -> C:\Users\user\source\repos\8.1 стандартні функції\x64\Debug\8.1 стандартні функції.exe
